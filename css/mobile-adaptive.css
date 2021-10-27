@@ -44,6 +44,7 @@
         width: 100%;
         height: 276px;
         background-position: right;
+        background-size: 200%;
     }
     .idc-about .idc-container {
         padding-top: 50px;
@@ -72,9 +73,12 @@
         max-width: 200px;
     }
     .idc-about__title {
-        font-size: 14px;
-        line-height: 17px;
         padding-bottom: 12px;
+    }
+    .idc-about__subtitle {
+        margin: 0;
+        font-size: 12px;
+        line-height: 15px;
     }
     .idc-info__list {
         padding-right: 0;
